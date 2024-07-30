@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `userorganisation` MODIFY `role` ENUM('ADMINISTRATOR', 'PROJECT_MANAGER', 'TEAM_MEMBER') NULL;
